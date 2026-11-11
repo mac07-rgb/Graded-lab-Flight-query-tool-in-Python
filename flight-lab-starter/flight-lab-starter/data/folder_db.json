@@ -1,0 +1,42 @@
+[
+  {
+    "flight_id": "BT301",
+    "origin": "RIX",
+    "destination": "HEL",
+    "departure_datetime": "2025-11-20 07:05",
+    "arrival_datetime": "2025-11-20 07:55",
+    "price": 89.0
+  },
+  {
+    "flight_id": "BT311",
+    "origin": "RIX",
+    "destination": "ARN",
+    "departure_datetime": "2025-11-20 09:30",
+    "arrival_datetime": "2025-11-20 10:20",
+    "price": 110.5
+  },
+  {
+    "flight_id": "DY1001",
+    "origin": "OSL",
+    "destination": "RIX",
+    "departure_datetime": "2025-11-20 12:00",
+    "arrival_datetime": "2025-11-20 14:45",
+    "price": 95.0
+  },
+  {
+    "flight_id": "BT301",
+    "origin": "RIX",
+    "destination": "HEL",
+    "departure_datetime": "2025-11-21 07:05",
+    "arrival_datetime": "2025-11-21 07:55",
+    "price": 79.0
+  },
+  {
+    "flight_id": "DY1005",
+    "origin": "OSL",
+    "destination": "LHR",
+    "departure_datetime": "2025-11-21 09:00",
+    "arrival_datetime": "2025-11-21 10:55",
+    "price": 130.0
+  }
+]

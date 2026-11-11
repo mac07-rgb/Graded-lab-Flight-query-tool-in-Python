@@ -1,0 +1,6 @@
+a_riga.csv:5: INVALID_DEPARTURE
+a_riga.csv:6: NON_POSITIVE_PRICE
+b_oslo.csv:5: DUPLICATE_FLIGHT
+b_oslo.csv:7: INVALID_DESTINATION
+b_oslo.csv:8: WRONG_FIELD_COUNT
+b_oslo.csv:9: INVALID_PRICE

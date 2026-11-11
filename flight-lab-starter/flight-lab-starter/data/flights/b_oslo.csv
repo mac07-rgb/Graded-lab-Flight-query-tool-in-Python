@@ -1,0 +1,10 @@
+flight_id,origin,destination,departure_datetime,arrival_datetime,price
+# Departures from Oslo (this file uses Windows line endings)
+DY1001,OSL,RIX,2025-11-20 12:00,2025-11-20 14:45,95.00
+
+BT301,RIX,HEL,2025-11-20 07:05,2025-11-20 07:55,79.00
+BT301,RIX,HEL,2025-11-21 07:05,2025-11-21 07:55,79.00
+DY1002,OSL,osl,2025-11-20 15:00,2025-11-20 16:00,60.00
+DY1003,OSL,ARN,2025-11-20 18:00,2025-11-20 19:05,70.00,extra
+DY1004,OSL,FRA,2025-11-21 08:00,2025-11-21 10:10,inf
+"DY1005","OSL","LHR","2025-11-21 09:00","2025-11-21 10:55","130.00"

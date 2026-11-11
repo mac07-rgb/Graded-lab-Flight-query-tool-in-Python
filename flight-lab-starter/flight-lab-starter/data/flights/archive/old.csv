@@ -1,0 +1,2 @@
+flight_id,origin,destination,departure_datetime,arrival_datetime,price
+OLD1,RIX,HEL,2024-01-01 10:00,2024-01-01 11:00,50.00
